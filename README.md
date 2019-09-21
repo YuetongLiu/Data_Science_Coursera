@@ -6,7 +6,6 @@
 5. From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
 
 ## Structure
-Raw data is in folder "UCI HAR Dataset". <br />
 Code is in "run_analysis.R". <br />
 Tidy data set is in tidyData.txt". <br />
 Code book is in "CodeBook.md"
