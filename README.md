@@ -9,4 +9,4 @@
 Raw data is in folder "UCI HAR Dataset". <br />
 Code is in "run_analysis.R". <br />
 Tidy data set is in tidyData.txt". <br />
-Code book is in CodeBook.md
+Code book is in "CodeBook.md"
